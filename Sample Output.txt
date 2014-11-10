@@ -1,0 +1,68 @@
+CHARLES CORBETT
+MICHAEL BRIDGES
+
+These are the outputs for testing the bigDayAtbank.txt file:
+
+3 tellers:
+
+How many tellers are working today? 
+3
+Enter yes if you want a drive-thru, enter no if you don't want a drive thru. 
+y
+The bank has been open for 353 seconds.
+Today we helped 28 customers.
+The customers waited for an average of 21.535714285714285 seconds, with a standard deviation of 26.736120755659837.
+Teller 0 helped 10 customers.
+Teller 0 was idle 0.0% of the time.
+Teller 1 helped 11 customers.
+Teller 1 was idle 62.3229461756374% of the time.
+Teller 2 helped 7 customers.
+Teller 2 was idle 41.07648725212464% of the time.
+The tellers were idle for an average of 34.46647780925401% of the time, with a standard deviation of 25.86898495146879.
+
+
+
+
+4 tellers:
+
+How many tellers are working today? 
+4
+Enter yes if you want a drive-thru, enter no if you don't want a drive thru. 
+y
+The bank has been open for 256 seconds.
+Today we helped 28 customers.
+The customers waited for an average of 8.586206896551724 seconds, with a standard deviation of 14.155581916878928.
+Teller 0 helped 7 customers.
+Teller 0 was idle 32.421875% of the time.
+Teller 1 helped 9 customers.
+Teller 1 was idle 16.796875% of the time.
+Teller 2 helped 7 customers.
+Teller 2 was idle 7.421875% of the time.
+Teller 3 helped 6 customers.
+Teller 3 was idle 62.5% of the time.
+The tellers were idle for an average of 29.78515625% of the time, with a standard deviation of 20.89273250109484.
+
+
+
+
+3 tellers no drive thru: 
+
+The bank has been open for 272 seconds.
+Today we helped 28 customers.
+The customers waited for an average of 14.185185185185185 seconds, with a standard deviation of 12.334945951741059.
+Teller 0 helped 9 customers.
+Teller 0 was idle 0.0% of the time.
+Teller 1 helped 7 customers.
+Teller 1 was idle 21.691176470588236% of the time.
+Teller 2 helped 11 customers.
+Teller 2 was idle 1.8382352941176472% of the time.
+The tellers were idle for an average of 7.843137254901961% of the time, with a standard deviation of 9.820757602769202.
+
+
+
+According to the outputs here, it looks like adding an additional teller makes a lot of difference of not only total time for the bank, but it
+cut down on customer wait time by more than half as well. Additionally, having the same number of tellers but no drive thru also cuts the total time of the bank
+down pretty signifigantly as well. Though the customer wait time was not cut as much as having 4 tellers, teller idle time was cut down to about 8% from 34% which is good
+if the bank manager doesn't want to pay a 4th teller and still leave customers satisfied.
+
+

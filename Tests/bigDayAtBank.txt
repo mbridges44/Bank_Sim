@@ -1,0 +1,27 @@
+0	9	true
+0	7	true
+0	13	true
+0	24	false
+07	6	true
+11	12	true
+13	34	false
+15	16	true
+19	14	true
+25	19	false
+28	26	true
+28	5	true
+30	19	true
+36	15	true
+36	12	true
+55	43	true
+75	10	true
+82	19	false
+88	26	true
+95	15	true
+98	12	true
+105	23	true
+105	21	true
+109	15	false
+118	78	true
+122	131	true
+
