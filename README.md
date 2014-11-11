@@ -1,4 +1,4 @@
-Bank_Sim
+Bank Sim
 ========
 
 This project simulates the interactions between customers and tellers in a bank office. The bank computes average customer wait times for some sample customer data.
